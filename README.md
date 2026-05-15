@@ -53,8 +53,9 @@ Machine Learning based recommendation system using Python and Streamlit.
 ## 📈 Stock Market Price Tracker
 Live stock tracking dashboard with alerts and sentiment analysis.
 
-## 🩸 Blood Donation Management System
+## <img width="40" height="40" alt="ChatGPT Image Apr 7, 2026, 10_08_38 AM" src="https://github.com/user-attachments/assets/55365f78-6918-4d85-a3e9-b9d29f33c9af" />  Smart College Complaint and Issue Tracking Portal 
 Spring Boot based full stack management application.
+
 
 
 
