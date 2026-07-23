@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bala Murali</h1>
-<h3 align="center">AI & Data Science Student | Aspiring Data Scientist | Open Source Enthusiast</h3>
+<h3 align="center">AI & Data Science Student | Aspiring Data Scientist | Open Source Enthusiast | Aspiring AI/ML Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Problem+Solver;Open+Source+Contributor;Data+Science+Enthusiast;AI+Enthusiast" />
