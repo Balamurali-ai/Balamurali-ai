@@ -47,11 +47,11 @@
 
 # 🌟 Featured Projects
 
-## 🎬 Movie Recommendation System
-Machine Learning based recommendation system using Python and Streamlit.
+## 🎯 TalentRank AI
+Two-stage candidate ranking system using semantic search (FAISS) and ML scoring (XGBoost) to match resumes against job descriptions, built with Python and FastAPI.
 
-## 📈 Stock Market Price Tracker
-Live stock tracking dashboard with alerts and sentiment analysis.
+## 🤖 RepoIntel – Repository Intelligence Platform
+AI-powered repository analysis platform that indexes codebases, understands their structure, and enables intelligent natural-language querying through RAG.
 
 ## <img width="40" height="40" alt="ChatGPT Image Apr 7, 2026, 10_08_38 AM" src="https://github.com/user-attachments/assets/55365f78-6918-4d85-a3e9-b9d29f33c9af" />  Smart College Complaint and Issue Tracking Portal 
 Spring Boot based full stack management application.
